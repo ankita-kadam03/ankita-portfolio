@@ -111,7 +111,7 @@ export function Experience() {
       <div className="section-inner">
         <FadeIn><p className="section-label">work_history</p></FadeIn>
         <FadeIn delay={0.1}><h2 className="section-title">My <span>Journey</span></h2></FadeIn>
-        <FadeIn delay={0.15}><p className="section-desc" style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: '0.82rem' }}>// Replace with your actual certifications!</p></FadeIn>
+        <FadeIn delay={0.15}><p className="section-desc" style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: '0.82rem' }}>{`// Replace with your actual experience!`}</p></FadeIn>
         <div style={{ position: 'relative', paddingLeft: 32 }}>
           <div style={{ position: 'absolute', left: 0, top: 12, bottom: 12, width: 1, background: 'linear-gradient(180deg,var(--c1),var(--c2),transparent)' }} />
           {portfolioData.experience.map((e, i) => (
