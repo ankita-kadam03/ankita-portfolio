@@ -108,7 +108,7 @@ Democratizing AI by creating solutions that are impactful, scalable, and accessi
 
 💻 GitHub: https://github.com/ankita-kadam03
 
-🌍 Portfolio: http://ankita-portfolio-du3f.vercel.app/
+🌍 Portfolio: https://ankita-kadam03.vercel.app/
 
 ---
 
